@@ -49,7 +49,7 @@
   
   .left-half{
       background-color: #195998;
-      background-image: url(images/requestor.jpg);
+      background-image: url(requestor.jpg);
       background-position: center;
       background-size: cover;
   
@@ -62,7 +62,7 @@
   }
   .right-half{
       background-color: white;
-      background-image: url(images/gigster.jpg);
+      background-image: url(gigster.jpg);
       background-position: center;
       background-size:cover;
      
@@ -104,7 +104,7 @@
      }
   .right-half{
       background-color: white;
-      background-image: url(images/gigster.jpeg);
+      background-image: url(gigster.jpeg);
       
       
   }
